@@ -28,22 +28,3 @@
 ```bash
   npm run dev
 ```
-
-# DEVELOPED BY
-<span>★ 𝙽𝚊𝚖𝚎:𝙷𝙰𝙽𝚄𝙼𝙰 𝚂𝙰𝙸 𝙺𝚁𝙸𝚂𝙷𝙽𝙰 𝙿𝙾𝙽𝙰𝙺𝙰𝙻𝙰 </span>
-<br>
-<span>★𝙴𝚖𝚊𝚒𝚕: hanumasaikrishna21@gmail.com</span>
-<br>
-<span>★ 𝙶𝚒𝚝𝚑𝚞𝚋&#8658;</span> <a href="https://github.com/hanumasaikrish21" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="hanuma sai krishna" height="60" width="60" /></a>
-<br>
-<span>★ 𝙽𝚊𝚖𝚎:𝚂𝚁𝙴𝙴𝙷𝙸𝚃𝙷𝙰 𝚁𝙰𝚈𝙰𝙻 𝚈𝙴𝙳𝙳𝚄𝙻𝙰</span>
-<br>
-<span>★𝙴𝚖𝚊𝚒𝚕: sreehitharayaly@gmail.com</span>
-<br>
-<span>★ 𝙶𝚒𝚝𝚑𝚞𝚋&#8658;</span> <a href="https://github.com/sree212212" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="Sreehitha Rayal" height="60" width="60" /></a>
- <br>
-<span>★ 𝙽𝚊𝚖𝚎:𝙼𝚎𝚐𝚑𝚊𝚗𝚊 𝙽𝚎𝚕𝚊𝚙𝚊𝚝𝚒 </span>
-<br>
-<span>★𝙴𝚖𝚊𝚒𝚕: meghananelapati681@gmail.com</span>
-<br>
-<span>★ 𝙶𝚒𝚝𝚑𝚞𝚋&#8658;</span> <a href="https://github.com/meghananelapati" target="blank"><img align="center" src="https://github.com/hanumasaikrish21/AirlineManagement_CC_Summer_Project/blob/main/github.svg" alt="hanuma sai krishna" height="60" width="60" /></a>
